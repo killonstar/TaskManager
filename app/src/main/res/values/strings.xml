@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="status">Status</string>
+    <string name="note">Note</string>
+    <string name="task">Task</string>
+    <string name="date">Date</string>
+    <string name="add_task">Add Task</string>
+    <string name="warning">Not all fields are filled</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="more">More</string>
+    <string name="change">Change</string>
+    <string name="del">Del</string>
+    <string name="del_all">Del All</string>
+    <string name="sort">Sort</string>
+
+    <string-array name="statuslist">
+        <item>New task</item>
+        <item>In progress task</item>
+        <item>Done task</item>
+    </string-array>
+    <string name="appwidget_text">Task</string>
+    <string name="new_task">New task</string>
+    <string name="progress_task">In progress task</string>
+    <string name="done_task">Done task</string>
+    <string name="all_task">All task</string>
+    <string name="add_widget">Add widget</string>
+</resources>
